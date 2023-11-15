@@ -1,10 +1,10 @@
 [build]
-command = "astro build"
+command = "npm run build"
 functions = "netlify/functions"
 publish = "dist"
 
 [[redirects]]
-from = "/api/*"
-to = "/.netlify/functions/:splat"
+from = "/*"
+to = "./src/pages/index.astro"
 statut = 200
 force = true
