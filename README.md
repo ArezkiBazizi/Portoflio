@@ -1,8 +1,6 @@
 # MY MINIMALIST CV WITH ASTRO
 
-(public/screenshot.jpeg)
-
-Astro-Vitae is a free, personalized CV template with sleek & minimal design which helps in simplifying the process of getting a CV for yourself. So much so that someone with minimal knowledge of coding can easily get their CV just by updating their details.
+Astro.js is a modern web development framework that allows developers to create fast and lightweight websites.
 
 ## Tech Stack
 
