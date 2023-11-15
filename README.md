@@ -1,34 +1,8 @@
-# Astro-Vitae | Personalized CV with minimal efforts
+# Astro-Vitae | CV
 
 ![Astro-Vitae | Personalized CV with minimal efforts](public/screenshot.jpeg)
 
 Astro-Vitae is a free, personalized CV template with sleek & minimal design which helps in simplifying the process of getting a CV for yourself. So much so that someone with minimal knowledge of coding can easily get their CV just by updating their details.
-
-## Demo
-
-View a live demo of [Astro-Vitae](https://astro-vitae.vercel.app/)
-
-## Requirements
-
-```
-- Git & Github Account
-- NPM (Node Package Manager)
-- A text-editor
-```
-
-## Installation
-
-After cloning and setting up the project files on your local machine, run the following command in your terminal
-
-```bash
-npm install
-```
-
-Once the packages are installed you are ready to run astro. Astro comes with a built-in development server that has everything you need for project development. The astro dev command will start the local development server so that you can see your new website in action for the very first time.
-
-```bash
-npm run dev
-```
 
 ## Tech Stack
 
