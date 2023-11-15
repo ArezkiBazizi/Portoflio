@@ -44,6 +44,12 @@ export const projects = [
 		url: "https://bfsup.netlify.app/",
 		tech: "HTML, CSS, JS",
 	},
+	{
+		title: "Résolution Optimale du jeu Rush Hour",
+		description: "Implimentation du jeu Rush Hour, avec algorithme qui résolue n'importe quel niveau donnée par l'utilisateur, avec le minimum de mouvements possible",
+		url: "https://github.com/ArezkiBazizi/Rush-Hour",
+		tech: "Java",
+	},
 ]
 
 // Education --> #education section
