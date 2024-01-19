@@ -35,12 +35,6 @@ Astro.js is a modern web development framework that allows developers to create 
 └── tsconfig.json
 ```
 
-## Using & Editing the content
-
-In order to change the content of the CV, all you have to do is update it in the `content.js` file in `/src` folder.
-
-![Content Code](public/content_code.png)
-
 In `src/content.js` all variables contain information that is to be reflected in the UI. In order to change it, simply update the values with your data. The personal information is fairly simple, content for the likes of work, projects, etc are stored as JavaScript objects.
 
 #### Adding or Removing a field
