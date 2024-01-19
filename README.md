@@ -35,17 +35,6 @@ Astro.js is a modern web development framework that allows developers to create 
 └── tsconfig.json
 ```
 
-In `src/content.js` all variables contain information that is to be reflected in the UI. In order to change it, simply update the values with your data. The personal information is fairly simple, content for the likes of work, projects, etc are stored as JavaScript objects.
-
-#### Adding or Removing a field
-
-To add or remove a field from the CV, simply go to `Container.astro` in `src/components/`
-
-![Accordion_code](public/accordion_code.png)
-
-- To Add a new field, add a new `<AccordionLayout />` component, with appropriate props and child component. Make sure add the data of field in proper format in `content.js`.
-- To Remove an already existing field, simply comment out the `<AccordionLayout />` component of that particular field or remove it. Removing its content from `content.js` is a choice.
-
 ## Contributing
 
 Suggestions and pull requests are welcomed! Feel free to open a discussion or an [issue](https://github.com/uskhokhar/astro-vitae/issues) for a new feature request or bug.
