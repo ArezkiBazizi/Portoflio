@@ -2,7 +2,7 @@
 export const name = "Arezki Bazizi"
 export const designation = "Developpeur Web"
 export const location = "France"
-export const website = "https://github.com/ArezkiBazizi/ArezkiBazizi"
+export const website = "https://github.com/ArezkiBazizi"
 
 // About
 export const Bio = "Bienvenue dans Portfolio, cette petite brèche spatio-temporelle qui vous donne un aperçu sur mon univers créatif. Passioné par les technologies du numérique, et curieux de nature, j'ai aqcuis par le biais de mes efforts personnels et de mon encadrement académique des connaisances dans divers domaine informatique : Dev Web Full-Stack, Programataion Orienté Object, Data Science et Inteligence Artificielle.. "
