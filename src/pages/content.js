@@ -33,6 +33,13 @@ export const stages = [
 // Projects --> #project section
 export const projects = [
 	{
+		title: "Jeux de l'Aventurier",
+		description: "Ce projet est un jeu en C++ qui simule un environnement de jeu ou joueurs peuvent interagir avec le terrain en déplaçant un aventurier, dans un chateau en ruine, en combattant des monstres et en collectant des objets afin de sortir du château.",
+		url: "https://github.com/ArezkiBazizi/Jeux-Aventurier",
+		tech: "C++",
+	},
+	
+	{
 		title: "Application Web E-Commerce Full-Stack",
 		description: "Développement d'une application de commerce full-stack comme projet de fin de cycle",
 		url: "https://github.com/ArezkiBazizi/FullStack-E-Commerce",
@@ -50,6 +57,13 @@ export const projects = [
 		url: "https://github.com/ArezkiBazizi/Rush-Hour",
 		tech: "Java",
 	},
+
+	{
+		title: "Customer-Churn-Prediction-KNN-and-Logistic-Regression",
+		description: "This is a binary classification project that uses both logistic regression and the k-nearest neighbors (k-NN) algorithm to classify data",
+		url: "https://github.com/ArezkiBazizi/Customer-Churn-Prediction-KNN-and-Logistic-Regression",
+		tech: "Python",
+	}
 ]
 
 // Education --> #education section
