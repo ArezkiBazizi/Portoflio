@@ -5,10 +5,40 @@ export const location = "France"
 export const website = "https://github.com/ArezkiBazizi"
 
 // About
-export const Bio = "Bienvenue dans Portfolio, cette petite brèche spatio-temporelle qui vous donne un aperçu sur mon univers créatif. Passioné par les technologies du numérique, et curieux de nature, j'ai aqcuis par le biais de mes efforts personnels et de mon encadrement académique des connaisances dans divers domaine informatique : Dev Web Full-Stack, Programataion Orienté Object, Data Science et Inteligence Artificielle.. "
+export const Bio = "Ingénieur Développeur Full-Stack (Angular/Spring Boot) spécialisé en environnements Cloud et DevOps. Experimenté dans la conception d'API RESTful et l'industrialisation des déploiements (CI/CD). Orienté vers la haute disponibilité et l'optimisation des performances sur des volumes de données massifs (Oracle/PostgreSQL). "
 
 // Work Experience --> #work section
-export const stages = [
+export const Experience = [
+	{
+		from: "2024",
+		to: "Actuellement",
+		role: "Ingénieur Développeur Full-Stack & DevOps  ",
+		org: "Arval BNP PARISBAS",
+		org_url: "https://group.bnpparibas/",
+		location: Paris, FRANCE",
+		skills: "Développement d'applications critiques en Spring Boot et Angular au sein d'une équipe internationale (FR, UK, ES, IT).
+
+				" Architecture Frontend : implémentation de modules Angular optimisés (Lazy loading, services, composants réutilisables).
+
+     			" API Design : conception d'API RESTful, standardisation via Swagger/OpenAPI et automatisation des tests sous Postman.
+
+				"Expertise Database : optimisation et refactorisation de procédures PL/SQL complexes sur très gros volumes (VLDB Oracle).
+
+				"Infrastructure : déploiement et orchestration de microservices sur Kubernetes (VMware Tanzu) via des pipelines CI/CD.
+
+			 	"Automation : refonte complète des jobs Jenkins (versioning automatisé, déploiement continu multi-environnements) réduisant drastiquement les erreurs manuelles en production.
+
+				"Collaboration : méthodologie Agile/Scrum en contexte multilingue et standardisation de la documentation technique."
+	},
+	{
+		from: "Mars 2024",
+		to: "Aout 2024",
+		role: "Cloud Data Engineer ",
+		org: "LesCityZens",
+		org_url: "https://www.lescityzens.fr/",
+		location: Paris, FRANCE",
+		skills: "Data Mining : Collecter, analyser et préparer les données des clients. Construction du modèle d'apprentissage : Knn et régression logistique. Prédiction et Conclusion : Comparer les performances des deux méthodes en termes d'exactitude."
+	},
 	{
 		from: "fév 2023",
 		to: "Mars 2023",
@@ -16,9 +46,8 @@ export const stages = [
 		org: "Ooredoo Algérie",
 		org_url: "https://www.ooredoo.dz/fr/",
 		location: "Bejaia, Algerie",
-		skills: "Data Mining : Collecter, analyser et préparer les données des clients. Construction du modèle d'apprentissage : Knn et régression logistique. Prédiction et Conclusion : Comparer les performances des deux méthodes en termes d'exactitude."
+		skills: "Migration d’OVH vers AWS Cloud, assurant continuité, scalabilité et optimisation des services. Déploiement de microservices, refonte de la base PostgreSQL et développement d’un programme automatisé pour l’analyse des données et la génération de rapports détaillés."
 	},
-
 	{
 		from: "Déc 2022",
 		to: "Jan 2023",
@@ -68,6 +97,13 @@ export const projects = [
 
 // Education --> #education section
 export const formation = [
+	{
+		from: "2024",
+		to: "2026",
+		institute: "Université de Paris Nanterre",
+		course: "MASTER MIAGE : Systèmes d’information fiables et intelligence des données",
+		location: "Paris, France"
+	},
 	{
 		from: "2023",
 		to: "2024",
