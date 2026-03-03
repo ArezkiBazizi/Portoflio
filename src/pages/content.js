@@ -16,19 +16,7 @@ export const Experience = [
 		org: "Arval BNP PARISBAS",
 		org_url: "https://group.bnpparibas/",
 		location: "Paris, FRANCE",
-		skills: "Développement d'applications critiques en Spring Boot et Angular au sein d'une équipe internationale (FR, UK, ES, IT).
-
-				"Architecture Frontend : implémentation de modules Angular optimisés (Lazy loading, services, composants réutilisables).
-
-     			"API Design : conception d'API RESTful, standardisation via Swagger/OpenAPI et automatisation des tests sous Postman.
-
-				"Expertise Database : optimisation et refactorisation de procédures PL/SQL complexes sur très gros volumes (VLDB Oracle).
-
-				"Infrastructure : déploiement et orchestration de microservices sur Kubernetes (VMware Tanzu) via des pipelines CI/CD.
-
-			 	"Automation : refonte complète des jobs Jenkins (versioning automatisé, déploiement continu multi-environnements) réduisant drastiquement les erreurs manuelles en production.
-
-				"Collaboration : méthodologie Agile/Scrum en contexte multilingue et standardisation de la documentation technique."
+		skills: "Développement d'applications critiques en Spring Boot et Angular au sein d'une équipe internationale (FR, UK, ES, IT). Architecture Frontend : implémentation de modules Angular optimisés (Lazy loading, services, composants réutilisables). API Design : conception d'API RESTful, standardisation via Swagger/OpenAPI et automatisation des tests sous Postman. Expertise Database : optimisation et refactorisation de procédures PL/SQL complexes sur très gros volumes (VLDB Oracle). Infrastructure : déploiement et orchestration de microservices sur Kubernetes (VMware Tanzu) via des pipelines CI/CD. Automation : refonte complète des jobs Jenkins (versioning automatisé, déploiement continu multi-environnements) réduisant drastiquement les erreurs manuelles en production. Collaboration : méthodologie Agile/Scrum en contexte multilingue et standardisation de la documentation technique."
 	},
 	{
 		from: "Mars 2024",
