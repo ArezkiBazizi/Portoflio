@@ -24,7 +24,7 @@ export const Experience = [
 		role: "Cloud Data Engineer ",
 		org: "LesCityZens",
 		org_url: "https://www.lescityzens.fr/",
-		location: Paris, FRANCE",
+		location: "Paris, FRANCE",
 		skills: "Data Mining : Collecter, analyser et préparer les données des clients. Construction du modèle d'apprentissage : Knn et régression logistique. Prédiction et Conclusion : Comparer les performances des deux méthodes en termes d'exactitude."
 	},
 	{
