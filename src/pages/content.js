@@ -15,12 +15,12 @@ export const Experience = [
 		role: "Ingénieur Développeur Full-Stack & DevOps  ",
 		org: "Arval BNP PARISBAS",
 		org_url: "https://group.bnpparibas/",
-		location: Paris, FRANCE",
+		location: "Paris, FRANCE",
 		skills: "Développement d'applications critiques en Spring Boot et Angular au sein d'une équipe internationale (FR, UK, ES, IT).
 
-				" Architecture Frontend : implémentation de modules Angular optimisés (Lazy loading, services, composants réutilisables).
+				"Architecture Frontend : implémentation de modules Angular optimisés (Lazy loading, services, composants réutilisables).
 
-     			" API Design : conception d'API RESTful, standardisation via Swagger/OpenAPI et automatisation des tests sous Postman.
+     			"API Design : conception d'API RESTful, standardisation via Swagger/OpenAPI et automatisation des tests sous Postman.
 
 				"Expertise Database : optimisation et refactorisation de procédures PL/SQL complexes sur très gros volumes (VLDB Oracle).
 
